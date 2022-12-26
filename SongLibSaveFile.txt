@@ -1,0 +1,80 @@
+name: ABC
+artist: Jackson Five
+album: 
+year: 1970
+
+name: Fireman
+artist: Lil Wayne
+album: Unknown
+year: 2005
+
+name: Fireman
+artist: Mase
+album: 
+year: 
+
+name: Holla At Your Boy
+artist: Lil Wayne
+album: Fire
+year: 2002
+
+name: I Know I Can
+artist: Nas
+album: God's Son
+year: 2002
+
+name: My Way
+artist: Usher
+album: My Way
+year: 1997
+
+name: Pipe Down
+artist: Drake
+album: Certified Lover Boy
+year: 
+
+name: Rolling in the Deep
+artist: Adele
+album: Adele21
+year: 2011
+
+name: September
+artist: Earth, Wind & Fire
+album: September
+year: 1978
+
+name: Sexual Healing
+artist: Marvin Gaye
+album: Midnight Love
+year: 1982
+
+name: Shape Of You
+artist: Ed Sheeran
+album: Divide
+year: 2017
+
+name: Wants and Needs
+artist: Drake
+album: 
+year: 2021
+
+name: Way 2 Sexy
+artist: Drake
+album: Scare Hours Two
+year: 2021
+
+name: We Are Young
+artist: fun ft. Janelle Monae
+album: Some Nights
+year: 2012
+
+name: Where
+artist: What
+album: Who
+year: 2021
+
+name: You Make Me Wanna
+artist: Usher
+album: My Way
+year: 1997
+
